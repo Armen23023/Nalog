@@ -1,4 +1,4 @@
-package Nalog1;
+package Nalog;
 
 public interface MyInterface {
 

@@ -1,7 +1,4 @@
-package Nalog1;
-
-import Nalog1.MyInterface;
-import Nalog1.Product;
+package Nalog;
 
 public class Sell  {
     final int tax = 20;

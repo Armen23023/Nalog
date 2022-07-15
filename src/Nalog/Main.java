@@ -1,4 +1,4 @@
-package Nalog1;
+package Nalog;
 
 public class Main {
     public static void main(String[] args) {
