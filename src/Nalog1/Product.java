@@ -1,6 +1,8 @@
-package Nalog;
+package Nalog1;
 
-public class Product implements  MyInterface {
+import Nalog1.MyInterface;
+
+public class Product implements MyInterface {
     protected String NameProduct;
     protected int price;
     protected int count;

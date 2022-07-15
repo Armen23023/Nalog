@@ -1,6 +1,7 @@
-package Nalog;
+package Nalog1;
 
-import javax.swing.*;
+import Nalog1.MyInterface;
+import Nalog1.Product;
 
 public class Sell  {
     final int tax = 20;
